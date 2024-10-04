@@ -1,5 +1,5 @@
 # Bioinformatics Resources project
-This project was performed in the context of the Bioinformatics Resources project, held by Professor Romanel at the University of Trento.
+This project was performed in the context of the Bioinformatics Resources project, held by Professor Alessandro Romanel at the University of Trento.
 
 This analysis is performed on a Lung Squamous Cell Carcinoma Dataset (extracted from the Cancer Genome Atlas), containing 62940 observations. 
 After an initial filtering, the steps performed were:
